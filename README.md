@@ -1,4 +1,4 @@
-### Hi there 👋
+###  Hi there 👋
 🧔 I'm Tulus Anugrah Ibrahim from <code>ID</code><br>
 🌱 I’m currently learning <code>JavaScript</code>  and <code>React</code>
 <!--
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulusibrahim&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulusibrahim&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulusibrahim&show_icons=true&theme=tokyonight)](https://github.com/tulusibrahim/github-readme-stats)
-<br>
+<br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tulusibrahim&repo=react-blog&show_icons=true&theme=tokyonight)](https://github.com/tulusibrahim/react-blog) <br>
