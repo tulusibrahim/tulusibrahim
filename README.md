@@ -1,6 +1,6 @@
 ###  Hi there 👋
 🧔 I'm Tulus Anugrah Ibrahim from <code>ID</code><br>
-🌱 I’m currently learning <code>JavaScript</code>  and <code>React</code>
+🌱 I’m currently learning <code>JavaScript</code>  and <code>NextJS</code>
 <!--
 **tulusibrahim/tulusibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
